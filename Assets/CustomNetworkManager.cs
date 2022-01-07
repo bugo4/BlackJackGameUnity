@@ -1,0 +1,11 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using Mirror;
+
+public class CustomNetworkManager : NetworkManager
+{
+	private void Update()
+	{
+	}
+}
